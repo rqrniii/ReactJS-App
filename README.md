@@ -2,8 +2,6 @@
 
 React Js App frontend and backend Using NodeJS and Express
 
-#fetching data from api done
+#fetching data from public API https://fake-coffee-api.vercel.app/api
 
-#page routes not done yet
-
-#backend not done yet
+In Progress ...
